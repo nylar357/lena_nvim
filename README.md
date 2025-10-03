@@ -1,3 +1,8 @@
+## Nvim by Elenapan ##
+
+![preview]Screenshot_2025-10-02_22-45-22.png
+
+
 <div align="center">
     <img src=".github/assets/header.svg" width="100%" height="100%" alt="elena's dotfiles banner">
 </div>
