@@ -1,6 +1,6 @@
 ## Nvim by Elenapan ##
 
-![preview]Screenshot_2025-10-02_22-45-22.png
+![preview](Screenshot_2025-10-02_22-45-22.png)
 
 
 <div align="center">
